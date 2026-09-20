@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://my-personal-portfolio-gilt-six.vercel.app/](https://my-personal-portfolio-gilt-six.vercel.app/)**
 
-- 📝 I regularly write articles on **[https://blog-platform-mern-flax.vercel.app/](https://blog-platform-mern-flax.vercel.app/)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
